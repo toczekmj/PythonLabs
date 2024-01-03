@@ -1,0 +1,1871 @@
+{
+ "tramwaje": [
+  {
+   "linia": "1",
+   "przystanek": [
+    {
+     "nazwa": "Wańkowicza 01"
+    },
+    {
+     "nazwa": "Cienista 01"
+    },
+    {
+     "nazwa": "Teatr Ludowy 01"
+    },
+    {
+     "nazwa": "Rondo Kocmyrzowskie im. Ks. Gorzelanego 02"
+    },
+    {
+     "nazwa": "Bieńczycka 01"
+    },
+    {
+     "nazwa": "Rondo Czyżyńskie 04"
+    },
+    {
+     "nazwa": "Centralna 02"
+    },
+    {
+     "nazwa": "Rondo 308. Dywizjonu 02"
+    },
+    {
+     "nazwa": "M1 al. Pokoju 02"
+    },
+    {
+     "nazwa": "TAURON Arena Kraków al. Pokoju 02"
+    },
+    {
+     "nazwa": "Dąbie 02"
+    },
+    {
+     "nazwa": "Ofiar Dąbia 02"
+    },
+    {
+     "nazwa": "Fabryczna 02"
+    },
+    {
+     "nazwa": "Francesco Nullo 02"
+    },
+    {
+     "nazwa": "Teatr Variété 02"
+    },
+    {
+     "nazwa": "Rondo Grzegórzeckie 02"
+    },
+    {
+     "nazwa": "Hala Targowa 02"
+    },
+    {
+     "nazwa": "Starowiślna 04"
+    },
+    {
+     "nazwa": "Poczta Główna 02"
+    },
+    {
+     "nazwa": "Plac Wszystkich Świętych 01"
+    },
+    {
+     "nazwa": "Filharmonia 01"
+    },
+    {
+     "nazwa": "UJ / AST 01"
+    },
+    {
+     "nazwa": "Muzeum Narodowe 01"
+    },
+    {
+     "nazwa": "Oleandry 01"
+    },
+    {
+     "nazwa": "Park Jordana 01"
+    },
+    {
+     "nazwa": "Reymana 01"
+    }
+   ]
+  },
+  {
+   "linia": "3",
+   "przystanek": [
+    {
+     "nazwa": "Nowy Bieżanów P+R 01"
+    },
+    {
+     "nazwa": "Ćwiklińskiej 02"
+    },
+    {
+     "nazwa": "Nowy Prokocim 02"
+    },
+    {
+     "nazwa": "Teligi 02"
+    },
+    {
+     "nazwa": "Prokocim Szpital 02"
+    },
+    {
+     "nazwa": "Prokocim 02"
+    },
+    {
+     "nazwa": "Wlotowa 02"
+    },
+    {
+     "nazwa": "Bieżanowska 02"
+    },
+    {
+     "nazwa": "Kabel 02"
+    },
+    {
+     "nazwa": "Dworcowa 02"
+    },
+    {
+     "nazwa": "Cmentarz Podgórski 02"
+    },
+    {
+     "nazwa": "Podgórze SKA 02"
+    },
+    {
+     "nazwa": "Plac Bohaterów Getta 02"
+    },
+    {
+     "nazwa": "św. Wawrzyńca 02"
+    },
+    {
+     "nazwa": "Miodowa 02"
+    },
+    {
+     "nazwa": "Starowiślna 01"
+    },
+    {
+     "nazwa": "Poczta Główna 02"
+    },
+    {
+     "nazwa": "Teatr Słowackiego 03"
+    },
+    {
+     "nazwa": "Dworzec Główny Zachód 02"
+    },
+    {
+     "nazwa": "Politechnika 01"
+    },
+    {
+     "nazwa": "Dworzec Towarowy 01"
+    },
+    {
+     "nazwa": "Szpital Narutowicza 01"
+    },
+    {
+     "nazwa": "Bratysławska 01"
+    }
+   ]
+  },
+  {
+   "linia": "4",
+   "przystanek": [
+    {
+     "nazwa": "Zajezdnia Nowa Huta 01"
+    },
+    {
+     "nazwa": "Kombinat 02"
+    },
+    {
+     "nazwa": "Struga 02"
+    },
+    {
+     "nazwa": "Plac Centralny im. R.Reagana 01"
+    },
+    {
+     "nazwa": "Os. Kolorowe 02"
+    },
+    {
+     "nazwa": "Rondo Czyżyńskie 02"
+    },
+    {
+     "nazwa": "Czyżyny 02"
+    },
+    {
+     "nazwa": "Stella-Sawickiego 02"
+    },
+    {
+     "nazwa": "AWF 02"
+    },
+    {
+     "nazwa": "Muzeum Lotnictwa Polskiego 02"
+    },
+    {
+     "nazwa": "TAURON Arena Kraków Wieczysta 02"
+    },
+    {
+     "nazwa": "Białucha 02"
+    },
+    {
+     "nazwa": "Cystersów 02"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 01"
+    },
+    {
+     "nazwa": "Lubicz 01"
+    },
+    {
+     "nazwa": "Teatr Słowackiego 01"
+    },
+    {
+     "nazwa": "Stary Kleparz 01"
+    },
+    {
+     "nazwa": "Teatr Bagatela 02"
+    },
+    {
+     "nazwa": "Batorego 01"
+    },
+    {
+     "nazwa": "Plac Inwalidów 01"
+    },
+    {
+     "nazwa": "Urzędnicza 01"
+    },
+    {
+     "nazwa": "Biprostal 01"
+    },
+    {
+     "nazwa": "Uniwersytet Pedagogiczny 01"
+    },
+    {
+     "nazwa": "Głowackiego 01"
+    },
+    {
+     "nazwa": "Bronowice 03"
+    },
+    {
+     "nazwa": "Wesele 01"
+    },
+    {
+     "nazwa": "Bronowice SKA 01"
+    }
+   ]
+  },
+  {
+   "linia": "5",
+   "przystanek": [
+    {
+     "nazwa": "Wańkowicza 01"
+    },
+    {
+     "nazwa": "Cienista 01"
+    },
+    {
+     "nazwa": "Teatr Ludowy 01"
+    },
+    {
+     "nazwa": "Rondo Kocmyrzowskie im. Ks. Gorzelanego 02"
+    },
+    {
+     "nazwa": "Bieńczycka 01"
+    },
+    {
+     "nazwa": "Rondo Czyżyńskie 02"
+    },
+    {
+     "nazwa": "Czyżyny 02"
+    },
+    {
+     "nazwa": "Stella-Sawickiego 02"
+    },
+    {
+     "nazwa": "AWF 02"
+    },
+    {
+     "nazwa": "Muzeum Lotnictwa Polskiego 02"
+    },
+    {
+     "nazwa": "TAURON Arena Kraków Wieczysta 02"
+    },
+    {
+     "nazwa": "Białucha 02"
+    },
+    {
+     "nazwa": "Cystersów 02"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 05"
+    },
+    {
+     "nazwa": "Dworzec Główny Tunel 02"
+    },
+    {
+     "nazwa": "Politechnika 03"
+    },
+    {
+     "nazwa": "Dworzec Towarowy 01"
+    },
+    {
+     "nazwa": "Szpital Narutowicza 01"
+    },
+    {
+     "nazwa": "Bratysławska 01"
+    }
+   ]
+  },
+  {
+   "linia": "8",
+   "przystanek": [
+    {
+     "nazwa": "Borek Fałęcki 01"
+    },
+    {
+     "nazwa": "Borek Fałęcki I 02"
+    },
+    {
+     "nazwa": "Solvay 02"
+    },
+    {
+     "nazwa": "Łagiewniki SKA 02"
+    },
+    {
+     "nazwa": "Łagiewniki 02"
+    },
+    {
+     "nazwa": "Rzemieślnicza 02"
+    },
+    {
+     "nazwa": "Rondo Matecznego 02"
+    },
+    {
+     "nazwa": "Smolki 02"
+    },
+    {
+     "nazwa": "Korona 01"
+    },
+    {
+     "nazwa": "Plac Wolnica 02"
+    },
+    {
+     "nazwa": "Stradom 04"
+    },
+    {
+     "nazwa": "Wawel 01"
+    },
+    {
+     "nazwa": "św. Gertrudy 01"
+    },
+    {
+     "nazwa": "Plac Wszystkich Świętych 01"
+    },
+    {
+     "nazwa": "Filharmonia 01"
+    },
+    {
+     "nazwa": "Teatr Bagatela 01"
+    },
+    {
+     "nazwa": "Batorego 01"
+    },
+    {
+     "nazwa": "Plac Inwalidów 01"
+    },
+    {
+     "nazwa": "Urzędnicza 01"
+    },
+    {
+     "nazwa": "Biprostal 01"
+    },
+    {
+     "nazwa": "Uniwersytet Pedagogiczny 01"
+    },
+    {
+     "nazwa": "Głowackiego 01"
+    },
+    {
+     "nazwa": "Bronowice 03"
+    },
+    {
+     "nazwa": "Wesele 01"
+    },
+    {
+     "nazwa": "Bronowice SKA 01"
+    }
+   ]
+  },
+  {
+   "linia": "9",
+   "przystanek": [
+    {
+     "nazwa": "Mistrzejowice 01"
+    },
+    {
+     "nazwa": "Miśnieńska 02"
+    },
+    {
+     "nazwa": "Os. Złotego Wieku 02"
+    },
+    {
+     "nazwa": "Rondo Piastowskie 02"
+    },
+    {
+     "nazwa": "Dunikowskiego 02"
+    },
+    {
+     "nazwa": "Rondo Hipokratesa 02"
+    },
+    {
+     "nazwa": "DH Wanda 02"
+    },
+    {
+     "nazwa": "Rondo Kocmyrzowskie im. Ks. Gorzelanego 02"
+    },
+    {
+     "nazwa": "Bieńczycka 01"
+    },
+    {
+     "nazwa": "Rondo Czyżyńskie 02"
+    },
+    {
+     "nazwa": "Czyżyny 02"
+    },
+    {
+     "nazwa": "Stella-Sawickiego 02"
+    },
+    {
+     "nazwa": "AWF 02"
+    },
+    {
+     "nazwa": "Muzeum Lotnictwa Polskiego 02"
+    },
+    {
+     "nazwa": "TAURON Arena Kraków Wieczysta 02"
+    },
+    {
+     "nazwa": "Białucha 02"
+    },
+    {
+     "nazwa": "Cystersów 02"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 03"
+    },
+    {
+     "nazwa": "Rondo Grzegórzeckie 04"
+    },
+    {
+     "nazwa": "Zabłocie 01"
+    },
+    {
+     "nazwa": "Klimeckiego 01"
+    },
+    {
+     "nazwa": "Kuklińskiego 01"
+    },
+    {
+     "nazwa": "Gromadzka 01"
+    },
+    {
+     "nazwa": "Lipska 03"
+    },
+    {
+     "nazwa": "Dworzec Płaszów Estakada 02"
+    },
+    {
+     "nazwa": "Kabel 01"
+    },
+    {
+     "nazwa": "Bieżanowska 01"
+    },
+    {
+     "nazwa": "Wlotowa 01"
+    },
+    {
+     "nazwa": "Prokocim 01"
+    },
+    {
+     "nazwa": "Prokocim Szpital 01"
+    },
+    {
+     "nazwa": "Teligi 01"
+    },
+    {
+     "nazwa": "Nowy Prokocim 01"
+    },
+    {
+     "nazwa": "Ćwiklińskiej 01"
+    }
+   ]
+  },
+  {
+   "linia": "10",
+   "przystanek": [
+    {
+     "nazwa": "Pleszów 01"
+    },
+    {
+     "nazwa": "Koksochemia 02"
+    },
+    {
+     "nazwa": "Meksyk 02"
+    },
+    {
+     "nazwa": "Brama nr 5 02"
+    },
+    {
+     "nazwa": "Giedroycia 02"
+    },
+    {
+     "nazwa": "Brama nr 4 02"
+    },
+    {
+     "nazwa": "Fort Mogiła 02"
+    },
+    {
+     "nazwa": "Bardosa 02"
+    },
+    {
+     "nazwa": "Suche Stawy 02"
+    },
+    {
+     "nazwa": "Klasztorna 02"
+    },
+    {
+     "nazwa": "Os. Na Skarpie 02"
+    },
+    {
+     "nazwa": "Plac Centralny im. R.Reagana 01"
+    },
+    {
+     "nazwa": "Os. Kolorowe 02"
+    },
+    {
+     "nazwa": "Rondo Czyżyńskie 02"
+    },
+    {
+     "nazwa": "Czyżyny 02"
+    },
+    {
+     "nazwa": "Stella-Sawickiego 02"
+    },
+    {
+     "nazwa": "AWF 02"
+    },
+    {
+     "nazwa": "Muzeum Lotnictwa Polskiego 02"
+    },
+    {
+     "nazwa": "TAURON Arena Kraków Wieczysta 02"
+    },
+    {
+     "nazwa": "Białucha 02"
+    },
+    {
+     "nazwa": "Cystersów 02"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 01"
+    },
+    {
+     "nazwa": "Lubicz 01"
+    },
+    {
+     "nazwa": "Teatr Słowackiego 01"
+    },
+    {
+     "nazwa": "Poczta Główna 01"
+    },
+    {
+     "nazwa": "św. Gertrudy 02"
+    },
+    {
+     "nazwa": "Wawel 02"
+    },
+    {
+     "nazwa": "Stradom 02"
+    },
+    {
+     "nazwa": "Plac Wolnica 01"
+    },
+    {
+     "nazwa": "Korona 03"
+    },
+    {
+     "nazwa": "Smolki 01"
+    },
+    {
+     "nazwa": "Rondo Matecznego 01"
+    },
+    {
+     "nazwa": "Rzemieślnicza 01"
+    },
+    {
+     "nazwa": "Łagiewniki 01"
+    },
+    {
+     "nazwa": "Łagiewniki ZUS 01"
+    },
+    {
+     "nazwa": "Łagiewniki SKA 03"
+    },
+    {
+     "nazwa": "Sanktuarium Bożego Miłosierdzia 01"
+    },
+    {
+     "nazwa": "Turowicza 01"
+    }
+   ]
+  },
+  {
+   "linia": "11",
+   "przystanek": [
+    {
+     "nazwa": "Mały Płaszów P+R 01"
+    },
+    {
+     "nazwa": "Rzebika 02"
+    },
+    {
+     "nazwa": "Lipska 03"
+    },
+    {
+     "nazwa": "Dworzec Płaszów Estakada 02"
+    },
+    {
+     "nazwa": "Kabel 01"
+    },
+    {
+     "nazwa": "Bieżanowska 03"
+    },
+    {
+     "nazwa": "Dauna 01"
+    },
+    {
+     "nazwa": "Piaski Nowe 01"
+    },
+    {
+     "nazwa": "Nowosądecka 01"
+    },
+    {
+     "nazwa": "Witosa 01"
+    },
+    {
+     "nazwa": "Kurdwanów P+R 08"
+    },
+    {
+     "nazwa": "Kurdwanów P+R 10"
+    },
+    {
+     "nazwa": "Turowicza 02"
+    },
+    {
+     "nazwa": "Sanktuarium Bożego Miłosierdzia 02"
+    },
+    {
+     "nazwa": "Łagiewniki SKA 02"
+    },
+    {
+     "nazwa": "Łagiewniki 05"
+    },
+    {
+     "nazwa": "Brożka 02"
+    },
+    {
+     "nazwa": "Borsucza 02"
+    },
+    {
+     "nazwa": "Lipińskiego 01"
+    },
+    {
+     "nazwa": "Grota-Roweckiego 01"
+    },
+    {
+     "nazwa": "Norymberska 01"
+    },
+    {
+     "nazwa": "Ruczaj 01"
+    },
+    {
+     "nazwa": "Kampus UJ 01"
+    },
+    {
+     "nazwa": "Chmieleniec 01"
+    }
+   ]
+  },
+  {
+   "linia": "13",
+   "przystanek": [
+    {
+     "nazwa": "Nowy Bieżanów P+R 01"
+    },
+    {
+     "nazwa": "Ćwiklińskiej 02"
+    },
+    {
+     "nazwa": "Nowy Prokocim 02"
+    },
+    {
+     "nazwa": "Teligi 02"
+    },
+    {
+     "nazwa": "Prokocim Szpital 02"
+    },
+    {
+     "nazwa": "Prokocim 02"
+    },
+    {
+     "nazwa": "Wlotowa 02"
+    },
+    {
+     "nazwa": "Bieżanowska 02"
+    },
+    {
+     "nazwa": "Kabel 02"
+    },
+    {
+     "nazwa": "Dworcowa 02"
+    },
+    {
+     "nazwa": "Cmentarz Podgórski 02"
+    },
+    {
+     "nazwa": "Podgórze SKA 02"
+    },
+    {
+     "nazwa": "Limanowskiego 02"
+    },
+    {
+     "nazwa": "Korona 02"
+    },
+    {
+     "nazwa": "Plac Wolnica 02"
+    },
+    {
+     "nazwa": "Stradom 04"
+    },
+    {
+     "nazwa": "Wawel 01"
+    },
+    {
+     "nazwa": "św. Gertrudy 01"
+    },
+    {
+     "nazwa": "Plac Wszystkich Świętych 01"
+    },
+    {
+     "nazwa": "Filharmonia 01"
+    },
+    {
+     "nazwa": "Teatr Bagatela 01"
+    },
+    {
+     "nazwa": "Batorego 01"
+    },
+    {
+     "nazwa": "Plac Inwalidów 01"
+    },
+    {
+     "nazwa": "Urzędnicza 01"
+    },
+    {
+     "nazwa": "Biprostal 01"
+    },
+    {
+     "nazwa": "Uniwersytet Pedagogiczny 01"
+    },
+    {
+     "nazwa": "Głowackiego 01"
+    }
+   ]
+  },
+  {
+   "linia": "14",
+   "przystanek": [
+    {
+     "nazwa": "Mistrzejowice 01"
+    },
+    {
+     "nazwa": "Miśnieńska 02"
+    },
+    {
+     "nazwa": "Os. Złotego Wieku 02"
+    },
+    {
+     "nazwa": "Rondo Piastowskie 02"
+    },
+    {
+     "nazwa": "Dunikowskiego 02"
+    },
+    {
+     "nazwa": "Rondo Hipokratesa 02"
+    },
+    {
+     "nazwa": "DH Wanda 02"
+    },
+    {
+     "nazwa": "Rondo Kocmyrzowskie im. Ks. Gorzelanego 02"
+    },
+    {
+     "nazwa": "Bieńczycka 01"
+    },
+    {
+     "nazwa": "Rondo Czyżyńskie 04"
+    },
+    {
+     "nazwa": "Centralna 02"
+    },
+    {
+     "nazwa": "Rondo 308. Dywizjonu 02"
+    },
+    {
+     "nazwa": "M1 al. Pokoju 02"
+    },
+    {
+     "nazwa": "TAURON Arena Kraków al. Pokoju 02"
+    },
+    {
+     "nazwa": "Dąbie 02"
+    },
+    {
+     "nazwa": "Ofiar Dąbia 02"
+    },
+    {
+     "nazwa": "Fabryczna 02"
+    },
+    {
+     "nazwa": "Francesco Nullo 02"
+    },
+    {
+     "nazwa": "Teatr Variété 02"
+    },
+    {
+     "nazwa": "Rondo Grzegórzeckie 03"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 04"
+    },
+    {
+     "nazwa": "Lubicz 01"
+    },
+    {
+     "nazwa": "Teatr Słowackiego 01"
+    },
+    {
+     "nazwa": "Stary Kleparz 01"
+    },
+    {
+     "nazwa": "Teatr Bagatela 02"
+    },
+    {
+     "nazwa": "Batorego 01"
+    },
+    {
+     "nazwa": "Plac Inwalidów 01"
+    },
+    {
+     "nazwa": "Urzędnicza 01"
+    },
+    {
+     "nazwa": "Biprostal 01"
+    },
+    {
+     "nazwa": "Uniwersytet Pedagogiczny 01"
+    },
+    {
+     "nazwa": "Głowackiego 01"
+    }
+   ]
+  },
+  {
+   "linia": "16",
+   "przystanek": [
+    {
+     "nazwa": "Mistrzejowice 01"
+    },
+    {
+     "nazwa": "Miśnieńska 02"
+    },
+    {
+     "nazwa": "Os. Złotego Wieku 02"
+    },
+    {
+     "nazwa": "Rondo Piastowskie 02"
+    },
+    {
+     "nazwa": "Dunikowskiego 02"
+    },
+    {
+     "nazwa": "Rondo Hipokratesa 02"
+    },
+    {
+     "nazwa": "DH Wanda 02"
+    },
+    {
+     "nazwa": "Rondo Kocmyrzowskie im. Ks. Gorzelanego 04"
+    },
+    {
+     "nazwa": "Os. Zgody 01"
+    },
+    {
+     "nazwa": "Plac Centralny im. R.Reagana 04"
+    },
+    {
+     "nazwa": "Os. Na Skarpie 01"
+    },
+    {
+     "nazwa": "Klasztorna 01"
+    },
+    {
+     "nazwa": "Suche Stawy 01"
+    }
+   ]
+  },
+  {
+   "linia": "17",
+   "przystanek": [
+    {
+     "nazwa": "Czerwone Maki P+R 01"
+    },
+    {
+     "nazwa": "Chmieleniec 02"
+    },
+    {
+     "nazwa": "Kampus UJ 02"
+    },
+    {
+     "nazwa": "Ruczaj 02"
+    },
+    {
+     "nazwa": "Norymberska 02"
+    },
+    {
+     "nazwa": "Grota-Roweckiego 02"
+    },
+    {
+     "nazwa": "Lipińskiego 02"
+    },
+    {
+     "nazwa": "Borsucza 01"
+    },
+    {
+     "nazwa": "Brożka 01"
+    },
+    {
+     "nazwa": "Łagiewniki 04"
+    },
+    {
+     "nazwa": "Łagiewniki 02"
+    },
+    {
+     "nazwa": "Rzemieślnicza 02"
+    },
+    {
+     "nazwa": "Rondo Matecznego 02"
+    },
+    {
+     "nazwa": "Smolki 02"
+    },
+    {
+     "nazwa": "Korona 01"
+    },
+    {
+     "nazwa": "Plac Bohaterów Getta 02"
+    },
+    {
+     "nazwa": "św. Wawrzyńca 02"
+    },
+    {
+     "nazwa": "Miodowa 02"
+    },
+    {
+     "nazwa": "Starowiślna 03"
+    },
+    {
+     "nazwa": "Hala Targowa 01"
+    },
+    {
+     "nazwa": "Rondo Grzegórzeckie 03"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 05"
+    },
+    {
+     "nazwa": "Dworzec Główny Tunel 02"
+    },
+    {
+     "nazwa": "Politechnika 03"
+    }
+   ]
+  },
+  {
+   "linia": "18",
+   "przystanek": [
+    {
+     "nazwa": "Czerwone Maki P+R 01"
+    },
+    {
+     "nazwa": "Chmieleniec 02"
+    },
+    {
+     "nazwa": "Kampus UJ 02"
+    },
+    {
+     "nazwa": "Ruczaj 02"
+    },
+    {
+     "nazwa": "Norymberska 02"
+    },
+    {
+     "nazwa": "Grota-Roweckiego 02"
+    },
+    {
+     "nazwa": "Lipińskiego 02"
+    },
+    {
+     "nazwa": "Kobierzyńska 02"
+    },
+    {
+     "nazwa": "Słomiana 02"
+    },
+    {
+     "nazwa": "Kapelanka 02"
+    },
+    {
+     "nazwa": "Szwedzka 02"
+    },
+    {
+     "nazwa": "Rondo Grunwaldzkie 02"
+    },
+    {
+     "nazwa": "Orzeszkowej 02"
+    },
+    {
+     "nazwa": "Stradom 01"
+    },
+    {
+     "nazwa": "Wawel 01"
+    },
+    {
+     "nazwa": "św. Gertrudy 01"
+    },
+    {
+     "nazwa": "Plac Wszystkich Świętych 01"
+    },
+    {
+     "nazwa": "Filharmonia 01"
+    },
+    {
+     "nazwa": "Teatr Bagatela 01"
+    },
+    {
+     "nazwa": "Stary Kleparz 02"
+    },
+    {
+     "nazwa": "Pędzichów 01"
+    },
+    {
+     "nazwa": "Nowy Kleparz 01"
+    },
+    {
+     "nazwa": "Dworzec Towarowy 01"
+    },
+    {
+     "nazwa": "Szpital Narutowicza 01"
+    },
+    {
+     "nazwa": "Bratysławska 01"
+    },
+    {
+     "nazwa": "Krowodrza Górka P+R 01"
+    },
+    {
+     "nazwa": "Pachońskiego P+R 01"
+    },
+    {
+     "nazwa": "Białoprądnicka 02"
+    },
+    {
+     "nazwa": "Górnickiego 02"
+    },
+    {
+     "nazwa": "Siewna Wiadukt 01"
+    },
+    {
+     "nazwa": "Bociana 01"
+    },
+    {
+     "nazwa": "Kuźnicy Kołłątajowskiej 01"
+    }
+   ]
+  },
+  {
+   "linia": "19",
+   "przystanek": [
+    {
+     "nazwa": "Borek Fałęcki 01"
+    },
+    {
+     "nazwa": "Borek Fałęcki I 02"
+    },
+    {
+     "nazwa": "Solvay 02"
+    },
+    {
+     "nazwa": "Łagiewniki SKA 02"
+    },
+    {
+     "nazwa": "Łagiewniki 02"
+    },
+    {
+     "nazwa": "Rzemieślnicza 02"
+    },
+    {
+     "nazwa": "Rondo Matecznego 02"
+    },
+    {
+     "nazwa": "Smolki 02"
+    },
+    {
+     "nazwa": "Korona 01"
+    },
+    {
+     "nazwa": "Plac Bohaterów Getta 02"
+    },
+    {
+     "nazwa": "św. Wawrzyńca 02"
+    },
+    {
+     "nazwa": "Miodowa 02"
+    },
+    {
+     "nazwa": "Starowiślna 03"
+    },
+    {
+     "nazwa": "Hala Targowa 01"
+    },
+    {
+     "nazwa": "Rondo Grzegórzeckie 03"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 05"
+    },
+    {
+     "nazwa": "Dworzec Główny Tunel 02"
+    },
+    {
+     "nazwa": "Politechnika 03"
+    },
+    {
+     "nazwa": "Dworzec Towarowy 01"
+    },
+    {
+     "nazwa": "Szpital Narutowicza 01"
+    },
+    {
+     "nazwa": "Bratysławska 01"
+    }
+   ]
+  },
+  {
+   "linia": "20",
+   "przystanek": [
+    {
+     "nazwa": "Mały Płaszów P+R 01"
+    },
+    {
+     "nazwa": "Rzebika 02"
+    },
+    {
+     "nazwa": "Lipska 02"
+    },
+    {
+     "nazwa": "Gromadzka 02"
+    },
+    {
+     "nazwa": "Kuklińskiego 02"
+    },
+    {
+     "nazwa": "Klimeckiego 02"
+    },
+    {
+     "nazwa": "Zabłocie 02"
+    },
+    {
+     "nazwa": "Rondo Grzegórzeckie 03"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 04"
+    },
+    {
+     "nazwa": "Lubicz 01"
+    },
+    {
+     "nazwa": "Teatr Słowackiego 01"
+    },
+    {
+     "nazwa": "Stary Kleparz 01"
+    },
+    {
+     "nazwa": "Teatr Bagatela 02"
+    },
+    {
+     "nazwa": "UJ / AST 01"
+    },
+    {
+     "nazwa": "Muzeum Narodowe 01"
+    },
+    {
+     "nazwa": "Oleandry 01"
+    },
+    {
+     "nazwa": "Park Jordana 01"
+    },
+    {
+     "nazwa": "Reymana 01"
+    }
+   ]
+  },
+  {
+   "linia": "21",
+   "przystanek": [
+    {
+     "nazwa": "Pleszów 01"
+    },
+    {
+     "nazwa": "Koksochemia 02"
+    },
+    {
+     "nazwa": "Meksyk 02"
+    },
+    {
+     "nazwa": "Brama nr 5 02"
+    },
+    {
+     "nazwa": "Giedroycia 02"
+    },
+    {
+     "nazwa": "Brama nr 4 02"
+    },
+    {
+     "nazwa": "Fort Mogiła 02"
+    },
+    {
+     "nazwa": "Kopiec Wandy 02"
+    },
+    {
+     "nazwa": "Kombinat 03"
+    },
+    {
+     "nazwa": "Struga 02"
+    },
+    {
+     "nazwa": "Plac Centralny im. R.Reagana 02"
+    },
+    {
+     "nazwa": "Os. Zgody 02"
+    },
+    {
+     "nazwa": "Rondo Kocmyrzowskie im. Ks. Gorzelanego 01"
+    },
+    {
+     "nazwa": "DH Wanda 01"
+    },
+    {
+     "nazwa": "Rondo Hipokratesa 01"
+    },
+    {
+     "nazwa": "Dunikowskiego 01"
+    },
+    {
+     "nazwa": "Kleeberga 01"
+    },
+    {
+     "nazwa": "Piasta Kołodzieja 01"
+    }
+   ]
+  },
+  {
+   "linia": "22",
+   "przystanek": [
+    {
+     "nazwa": "Borek Fałęcki 01"
+    },
+    {
+     "nazwa": "Borek Fałęcki I 02"
+    },
+    {
+     "nazwa": "Solvay 02"
+    },
+    {
+     "nazwa": "Łagiewniki SKA 02"
+    },
+    {
+     "nazwa": "Łagiewniki 05"
+    },
+    {
+     "nazwa": "Brożka 02"
+    },
+    {
+     "nazwa": "Borsucza 02"
+    },
+    {
+     "nazwa": "Kobierzyńska 02"
+    },
+    {
+     "nazwa": "Słomiana 02"
+    },
+    {
+     "nazwa": "Kapelanka 02"
+    },
+    {
+     "nazwa": "Szwedzka 02"
+    },
+    {
+     "nazwa": "Rondo Grunwaldzkie 02"
+    },
+    {
+     "nazwa": "Orzeszkowej 02"
+    },
+    {
+     "nazwa": "Stradom 01"
+    },
+    {
+     "nazwa": "Starowiślna 03"
+    },
+    {
+     "nazwa": "Hala Targowa 01"
+    },
+    {
+     "nazwa": "Rondo Grzegórzeckie 01"
+    },
+    {
+     "nazwa": "Teatr Variété 01"
+    },
+    {
+     "nazwa": "Francesco Nullo 01"
+    },
+    {
+     "nazwa": "Fabryczna 01"
+    },
+    {
+     "nazwa": "Ofiar Dąbia 01"
+    },
+    {
+     "nazwa": "Dąbie 01"
+    },
+    {
+     "nazwa": "TAURON Arena Kraków al. Pokoju 01"
+    },
+    {
+     "nazwa": "M1 al. Pokoju 01"
+    },
+    {
+     "nazwa": "Rondo 308. Dywizjonu 01"
+    },
+    {
+     "nazwa": "Centralna 01"
+    },
+    {
+     "nazwa": "Rondo Czyżyńskie 01"
+    },
+    {
+     "nazwa": "Os. Kolorowe 01"
+    },
+    {
+     "nazwa": "Plac Centralny im. R.Reagana 03"
+    },
+    {
+     "nazwa": "Struga 01"
+    },
+    {
+     "nazwa": "Kombinat 01"
+    }
+   ]
+  },
+  {
+   "linia": "24",
+   "przystanek": [
+    {
+     "nazwa": "Kurdwanów P+R 01"
+    },
+    {
+     "nazwa": "Witosa 02"
+    },
+    {
+     "nazwa": "Nowosądecka 02"
+    },
+    {
+     "nazwa": "Piaski Nowe 02"
+    },
+    {
+     "nazwa": "Dauna 02"
+    },
+    {
+     "nazwa": "Bieżanowska 04"
+    },
+    {
+     "nazwa": "Kabel 02"
+    },
+    {
+     "nazwa": "Dworcowa 02"
+    },
+    {
+     "nazwa": "Cmentarz Podgórski 02"
+    },
+    {
+     "nazwa": "Podgórze SKA 02"
+    },
+    {
+     "nazwa": "Plac Bohaterów Getta 02"
+    },
+    {
+     "nazwa": "św. Wawrzyńca 02"
+    },
+    {
+     "nazwa": "Miodowa 02"
+    },
+    {
+     "nazwa": "Starowiślna 01"
+    },
+    {
+     "nazwa": "Poczta Główna 02"
+    },
+    {
+     "nazwa": "Teatr Słowackiego 03"
+    },
+    {
+     "nazwa": "Stary Kleparz 01"
+    },
+    {
+     "nazwa": "Teatr Bagatela 02"
+    },
+    {
+     "nazwa": "Batorego 01"
+    },
+    {
+     "nazwa": "Plac Inwalidów 01"
+    },
+    {
+     "nazwa": "Urzędnicza 01"
+    },
+    {
+     "nazwa": "Biprostal 01"
+    },
+    {
+     "nazwa": "Uniwersytet Pedagogiczny 01"
+    },
+    {
+     "nazwa": "Głowackiego 01"
+    },
+    {
+     "nazwa": "Bronowice 03"
+    },
+    {
+     "nazwa": "Wesele 01"
+    },
+    {
+     "nazwa": "Bronowice SKA 01"
+    }
+   ]
+  },
+  {
+   "linia": "44",
+   "przystanek": [
+    {
+     "nazwa": "Kopiec Wandy 02"
+    },
+    {
+     "nazwa": "Kombinat 03"
+    },
+    {
+     "nazwa": "Struga 02"
+    },
+    {
+     "nazwa": "Plac Centralny im. R.Reagana 01"
+    },
+    {
+     "nazwa": "Os. Kolorowe 02"
+    },
+    {
+     "nazwa": "Rondo Czyżyńskie 02"
+    },
+    {
+     "nazwa": "Czyżyny 02"
+    },
+    {
+     "nazwa": "Stella-Sawickiego 02"
+    },
+    {
+     "nazwa": "AWF 02"
+    },
+    {
+     "nazwa": "Muzeum Lotnictwa Polskiego 02"
+    },
+    {
+     "nazwa": "TAURON Arena Kraków Wieczysta 02"
+    },
+    {
+     "nazwa": "Białucha 02"
+    },
+    {
+     "nazwa": "Cystersów 02"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 01"
+    },
+    {
+     "nazwa": "Lubicz 01"
+    },
+    {
+     "nazwa": "Teatr Słowackiego 01"
+    },
+    {
+     "nazwa": "Stary Kleparz 01"
+    },
+    {
+     "nazwa": "Pędzichów 01"
+    },
+    {
+     "nazwa": "Nowy Kleparz 01"
+    }
+   ]
+  },
+  {
+   "linia": "49",
+   "przystanek": [
+    {
+     "nazwa": "Nowy Bieżanów P+R 01"
+    },
+    {
+     "nazwa": "Ćwiklińskiej 02"
+    },
+    {
+     "nazwa": "Nowy Prokocim 02"
+    },
+    {
+     "nazwa": "Teligi 02"
+    },
+    {
+     "nazwa": "Prokocim Szpital 02"
+    },
+    {
+     "nazwa": "Prokocim 02"
+    },
+    {
+     "nazwa": "Wlotowa 02"
+    },
+    {
+     "nazwa": "Bieżanowska 02"
+    },
+    {
+     "nazwa": "Kabel 02"
+    },
+    {
+     "nazwa": "Dworzec Płaszów Estakada 01"
+    },
+    {
+     "nazwa": "Lipska 02"
+    },
+    {
+     "nazwa": "Gromadzka 02"
+    },
+    {
+     "nazwa": "Kuklińskiego 02"
+    },
+    {
+     "nazwa": "Klimeckiego 02"
+    },
+    {
+     "nazwa": "Zabłocie 02"
+    },
+    {
+     "nazwa": "Rondo Grzegórzeckie 03"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 02"
+    },
+    {
+     "nazwa": "Cystersów 01"
+    },
+    {
+     "nazwa": "Białucha 01"
+    }
+   ]
+  },
+  {
+   "linia": "50",
+   "przystanek": [
+    {
+     "nazwa": "Papierni Prądnickich 02"
+    },
+    {
+     "nazwa": "Kuźnicy Kołłątajowskiej 02"
+    },
+    {
+     "nazwa": "Bociana 02"
+    },
+    {
+     "nazwa": "Siewna Wiadukt 02"
+    },
+    {
+     "nazwa": "Górnickiego 01"
+    },
+    {
+     "nazwa": "Białoprądnicka 01"
+    },
+    {
+     "nazwa": "Pachońskiego P+R 02"
+    },
+    {
+     "nazwa": "Krowodrza Górka P+R 02"
+    },
+    {
+     "nazwa": "Bratysławska 02"
+    },
+    {
+     "nazwa": "Szpital Narutowicza 02"
+    },
+    {
+     "nazwa": "Dworzec Towarowy 02"
+    },
+    {
+     "nazwa": "Politechnika 04"
+    },
+    {
+     "nazwa": "Dworzec Główny Tunel 01"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 03"
+    },
+    {
+     "nazwa": "Rondo Grzegórzeckie 04"
+    },
+    {
+     "nazwa": "Zabłocie 01"
+    },
+    {
+     "nazwa": "Klimeckiego 01"
+    },
+    {
+     "nazwa": "Kuklińskiego 01"
+    },
+    {
+     "nazwa": "Gromadzka 01"
+    },
+    {
+     "nazwa": "Lipska 03"
+    },
+    {
+     "nazwa": "Dworzec Płaszów Estakada 02"
+    },
+    {
+     "nazwa": "Kabel 01"
+    },
+    {
+     "nazwa": "Bieżanowska 03"
+    },
+    {
+     "nazwa": "Dauna 01"
+    },
+    {
+     "nazwa": "Piaski Nowe 01"
+    },
+    {
+     "nazwa": "Nowosądecka 01"
+    },
+    {
+     "nazwa": "Witosa 01"
+    },
+    {
+     "nazwa": "Kurdwanów P+R 08"
+    },
+    {
+     "nazwa": "Kurdwanów P+R 10"
+    },
+    {
+     "nazwa": "Turowicza 02"
+    },
+    {
+     "nazwa": "Sanktuarium Bożego Miłosierdzia 02"
+    },
+    {
+     "nazwa": "Łagiewniki SKA 01"
+    },
+    {
+     "nazwa": "Solvay 01"
+    },
+    {
+     "nazwa": "Borek Fałęcki I 01"
+    }
+   ]
+  },
+  {
+   "linia": "52",
+   "przystanek": [
+    {
+     "nazwa": "Czerwone Maki P+R 01"
+    },
+    {
+     "nazwa": "Chmieleniec 02"
+    },
+    {
+     "nazwa": "Kampus UJ 02"
+    },
+    {
+     "nazwa": "Ruczaj 02"
+    },
+    {
+     "nazwa": "Norymberska 02"
+    },
+    {
+     "nazwa": "Grota-Roweckiego 02"
+    },
+    {
+     "nazwa": "Lipińskiego 02"
+    },
+    {
+     "nazwa": "Kobierzyńska 02"
+    },
+    {
+     "nazwa": "Słomiana 02"
+    },
+    {
+     "nazwa": "Kapelanka 02"
+    },
+    {
+     "nazwa": "Szwedzka 02"
+    },
+    {
+     "nazwa": "Rondo Grunwaldzkie 02"
+    },
+    {
+     "nazwa": "Orzeszkowej 02"
+    },
+    {
+     "nazwa": "Stradom 01"
+    },
+    {
+     "nazwa": "Starowiślna 01"
+    },
+    {
+     "nazwa": "Poczta Główna 02"
+    },
+    {
+     "nazwa": "Teatr Słowackiego 03"
+    },
+    {
+     "nazwa": "Lubicz 02"
+    },
+    {
+     "nazwa": "Rondo Mogilskie 02"
+    },
+    {
+     "nazwa": "Cystersów 01"
+    },
+    {
+     "nazwa": "Białucha 01"
+    },
+    {
+     "nazwa": "TAURON Arena Kraków Wieczysta 01"
+    },
+    {
+     "nazwa": "Muzeum Lotnictwa Polskiego 01"
+    },
+    {
+     "nazwa": "AWF 01"
+    },
+    {
+     "nazwa": "Stella-Sawickiego 01"
+    },
+    {
+     "nazwa": "Czyżyny 01"
+    },
+    {
+     "nazwa": "Rondo Czyżyńskie 03"
+    },
+    {
+     "nazwa": "Bieńczycka 02"
+    },
+    {
+     "nazwa": "Rondo Kocmyrzowskie im. Ks. Gorzelanego 01"
+    },
+    {
+     "nazwa": "DH Wanda 01"
+    },
+    {
+     "nazwa": "Rondo Hipokratesa 01"
+    },
+    {
+     "nazwa": "Dunikowskiego 01"
+    },
+    {
+     "nazwa": "Kleeberga 01"
+    },
+    {
+     "nazwa": "Piasta Kołodzieja 01"
+    }
+   ]
+  },
+  {
+   "linia": "72",
+   "przystanek": [
+    {
+     "nazwa": "Mały Płaszów P+R 01"
+    },
+    {
+     "nazwa": "Rzebika 02"
+    },
+    {
+     "nazwa": "Lipska 03"
+    },
+    {
+     "nazwa": "Dworzec Płaszów Estakada 02"
+    },
+    {
+     "nazwa": "Dworcowa 02"
+    },
+    {
+     "nazwa": "Cmentarz Podgórski 02"
+    },
+    {
+     "nazwa": "Podgórze SKA 02"
+    },
+    {
+     "nazwa": "Limanowskiego 02"
+    },
+    {
+     "nazwa": "Korona 02"
+    },
+    {
+     "nazwa": "Plac Wolnica 02"
+    },
+    {
+     "nazwa": "Stradom 04"
+    },
+    {
+     "nazwa": "Wawel 01"
+    },
+    {
+     "nazwa": "św. Gertrudy 01"
+    },
+    {
+     "nazwa": "Plac Wszystkich Świętych 01"
+    },
+    {
+     "nazwa": "Filharmonia 01"
+    },
+    {
+     "nazwa": "Teatr Bagatela 01"
+    },
+    {
+     "nazwa": "Stary Kleparz 02"
+    },
+    {
+     "nazwa": "Teatr Słowackiego 02"
+    },
+    {
+     "nazwa": "Lubicz 02"
+    },
+    {
+     "nazwa": "Uniwersytet Ekonomiczny 01"
+    },
+    {
+     "nazwa": "Muzeum Fotografii 01"
+    }
+   ]
+  }
+ ]
+}
