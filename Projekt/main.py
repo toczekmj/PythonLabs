@@ -1,6 +1,7 @@
 import pygame, sys, pandas
 from pygame.locals import MOUSEMOTION, MOUSEBUTTONDOWN, KEYDOWN, K_RETURN, K_ESCAPE
 from math import ceil
+
 DEAD = 0
 ALIVE = 1
 FPS = 10
@@ -61,6 +62,14 @@ class Button:
         self.x = x
         # Y liczony od dolu ekranu, do dolu przycisku -> lewy dolny rog przycisku
         global HEIGHT, CELL_SIZE
+        self.fillColors = {
+            'normal': '#d4d4d4',
+            'hover': '#c4c4c4',
+            'pressed': '#999999',
+            'disabled': '#383838',
+        }
+        if color is not None:
+            self.fillColors['normal'] = color
         self.y = HEIGHT * CELL_SIZE - y - height
         self.width = width
         self.height = height
@@ -70,15 +79,6 @@ class Button:
         self.fontPaddingX = fontPaddingX
         self.fontPaddingY = fontPaddingY
         self.alreadyPressed = False
-        self.fillColors = {
-            'normal': '#d4d4d4',
-            'hover': '#c4c4c4',
-            'pressed': '#999999',
-            'disabled': '#383838',
-        }
-
-        if color is not None:
-            self.fillColors['normal'] = color
         self.currentColor = self.fillColors['normal']
         self.color = color
         self.oneColor = oneColor
@@ -239,7 +239,7 @@ class Game:
         else:
             self.buttons[5].oneColor = True
             self.buttons[5].color = DEFAULT_FILL_COLORS['red']
-            self.buttons[5].updateButton(self.buttons[5].fillColors['disabled'])
+            self.buttons[5].updateButton()
 
     # metoda odpowiedzialna za rozgrywke, a takze za jej pauze
     def play(self):
