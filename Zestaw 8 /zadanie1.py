@@ -96,7 +96,8 @@ def mouse_button_release(event):
         temp2 = None
 
     if text in "0123456789":
-        ans_entry.delete(0, "end")
+        if(ans_entry.get() in "+-*/"):
+            ans_entry.delete(0, "end")
         ans_entry.insert(len(ans_entry.get()), text)
 
     if text in "+-*/":
